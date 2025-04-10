@@ -1,4 +1,5 @@
 # PAMII
 Exercício de Calculadora IMC
-"Descrição de como clonar e baixar"
-"Video explicando o aplicativo"
+Entre no projeto e clique o botão verde escrito code copie o código
+Depois disso entra o terminal do Git e escreva:
+git clone "link copiado"
